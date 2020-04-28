@@ -1,3 +1,8 @@
+## 你试那么多次,不如刷一次文档来得快
+
+* https://neo4j.com/docs/cypher-manual/current/
+* http://clojureneo4j.info/articles/guides.html
+
 ## 1. 全表扫描 
 
 ```sql
